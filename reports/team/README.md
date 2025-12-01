@@ -12,7 +12,6 @@ team/
 
 ## 📊 Reviews
 
-### 2024
 
 | Project | Team | Role | Date | Report |
 |---------|------|------|------|--------|
