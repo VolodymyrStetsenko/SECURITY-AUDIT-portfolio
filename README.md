@@ -15,19 +15,6 @@
 
 Independent Smart Contract Security Researcher specializing in EVM-based protocols. I conduct comprehensive security reviews to identify vulnerabilities and help protocols build more secure decentralized applications.
 
-### 🎯 Expertise
-
-```solidity
-// Security Research Areas
-- Access Control Vulnerabilities
-- Reentrancy Attacks
-- Integer Overflow/Underflow
-- Front-Running & MEV
-- Oracle Manipulation
-- Flash Loan Attacks
-- Centralization Risks
-- Gas Optimization Issues
-```
 
 ### 🛠️ Tech Stack
 
