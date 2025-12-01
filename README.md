@@ -83,57 +83,6 @@ Findings from competitive audit platforms.
 
 ---
 
-## 📚 Security Research
-
-### Methodology
-
-My security review process follows a systematic approach:
-
-1. **Initial Review Phase**
-   - Scoping & Documentation Review
-   - Reconnaissance & Code Analysis
-   - Vulnerability Identification
-   - Detailed Reporting
-
-2. **Protocol Fixes Phase**
-   - Issue Resolution Tracking
-   - Retesting & Validation
-   - Test Coverage Analysis
-
-3. **Mitigation Review Phase**
-   - Fix Verification
-   - Regression Testing
-   - Final Report
-
-[Read Full Methodology →](./docs/methodology.md)
-
-### Security Checklist
-
-Comprehensive checklist covering all critical security aspects:
-
-- ✅ Access Control
-- ✅ Reentrancy Protection
-- ✅ Integer Arithmetic
-- ✅ Oracle Security
-- ✅ Flash Loan Safety
-- ✅ Centralization Risks
-- ✅ Gas Optimization
-- ✅ And more...
-
-[View Complete Checklist →](./docs/checklist.md)
-
----
-
-## 📝 Report Templates
-
-Professional templates for security reviews:
-
-- [Security Review Report Template](./templates/report-template.md)
-- [Competitive Finding Template](./templates/finding-template.md)
-- [Mitigation Review Template](./templates/mitigation-review-template.md)
-
----
-
 ## 📫 Contact & Collaboration
 
 I'm available for:
