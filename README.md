@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Independent Smart Contract Security Researcher specializing in EVM-based protocols. I conduct comprehensive security reviews to identify vulnerabilities and help protocols build more secure decentralized applications.
+Independent Security Researcher.
 
 
 
@@ -94,7 +94,7 @@ I'm available for:
 
 ### Get in Touch
 
-- **Twitter/X:** [@carstetsen](https://x.com/carstetsen)
+- **Twitter/X:** [@Volodymyr Stetsenko](https://x.com/carstetsen)
 - **LinkedIn:** [Volodymyr Stetsenko](https://www.linkedin.com/in/volodymyr-stetsenko-656014246/)
 - **GitHub:** [@VolodymyrStetsenko](https://github.com/VolodymyrStetsenko)
 
@@ -108,7 +108,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 <div align="center">
 
-**Building Secure Smart Contracts, One Review at a Time** 🛡️
+**Securing the future of decentralized finance** 🛡️
 
 Made with 🔐 by Volodymyr Stetsenko
 
