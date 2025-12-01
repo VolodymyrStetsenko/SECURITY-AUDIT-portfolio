@@ -34,7 +34,7 @@ Independent Security Researcher.
 
 ---
 
-## 🔐 Solo Security Reviews
+## 🔐 Solo 
 
 Independent security reviews conducted for various protocols.
 
@@ -46,7 +46,7 @@ Independent security reviews conducted for various protocols.
 
 ---
 
-## 👥 Team Security Reviews
+## 👥 Team 
 
 Collaborative security reviews conducted as part of audit teams.
 
