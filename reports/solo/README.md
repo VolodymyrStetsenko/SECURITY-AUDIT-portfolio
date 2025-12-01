@@ -12,7 +12,6 @@ solo/
 
 ## 📊 Reviews
 
-### 2024
 
 | Project | Protocol Type | Date | Severity | Report |
 |---------|---------------|------|----------|--------|
