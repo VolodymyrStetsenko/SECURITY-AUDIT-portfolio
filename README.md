@@ -40,6 +40,7 @@ Practical exercises, labs, and write-ups demonstrating proficiency in vulnerabil
 
 | Category | Count | High Findings | Medium Findings | Total Findings |
 |:--------:|:-----:|:-------------:|:---------------:|:--------------:|
+| 🦅 Codehawks F_F | 0 | 0 | 0 | 0 |
 | 🔍 Solo Reviews | 0 | 0 | 0 | 0 |
 | 👥 Team Reviews | 0 | 0 | 0 | 0 |
 | 🏆 Competitive Audits | 0 | 0 | 0 | 0 |
